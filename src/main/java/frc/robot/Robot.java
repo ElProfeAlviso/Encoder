@@ -55,6 +55,8 @@ public class Robot extends TimedRobot {
      * the GetStopped() method. Units are in distance / second,
      * where distance refers to the units of distance
      * that you are using, in this case inches.
+     * 
+     * hola desde mi branch
      */
     m_encoder.setMinRate(1.0);
   }
